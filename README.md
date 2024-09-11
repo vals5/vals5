@@ -1,6 +1,7 @@
 ## 👋 Hi there, I'm Valentina
 
-🌎 Find me around the web on [Linkedin]
+🌎 Find me around the web on[LinkedIn](https://www.linkedin.com/in/valentina-sosa-3174a0208/)
+📧 Email: valeens12@gmail.com
 
 👩🏽‍💻 Some technologies I use
 
