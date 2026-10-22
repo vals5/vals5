@@ -53,8 +53,8 @@
 ### 📊 Mis Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=vals5&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="150"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vals5&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vals5&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vals5&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="150"/>
 </div>
 
 ---
