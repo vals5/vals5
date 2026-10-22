@@ -2,7 +2,7 @@
 
 🌎 Find me around the web on [LinkedIn](https://www.linkedin.com/in/valentina-sosa-3174a0208/)
 
-📧 Email: valeens12@gmail.com
+📧 Email: valenntina.code@gmail.com
 
 👩🏽‍💻 Some technologies I use
 
