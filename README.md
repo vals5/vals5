@@ -94,5 +94,3 @@ I'm a **frontend developer** who builds fast, accessible and maintainable interf
 <div align="center">
   <sub>💡 <i>Building efficient, secure and accessible interfaces.</i></sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=da571b&height=90&section=footer" width="100%" alt="" />
