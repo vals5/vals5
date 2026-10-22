@@ -55,14 +55,14 @@ I'm a **frontend developer** who builds fast, accessible and maintainable interf
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vals5&repo=app-servicios&bg_color=0d0d0d&title_color=da571b&text_color=ffffff&icon_color=da571b&border_color=da571b&border_radius=20&v=2" alt="app-servicios" />
 </a>
 <a href="https://github.com/vals5/bloom_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vals5&repo=bloom_app&bg_color=0d0d0d&title_color=da571b&text_color=ffffff&icon_color=da571b&border_color=da571b&border_radius=20" alt="bloom_app" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vals5&repo=bloom_app&bg_color=0d0d0d&title_color=da571b&text_color=ffffff&icon_color=da571b&border_color=da571b&border_radius=20&v=2" alt="bloom_app" />
 </a>
 
 <a href="https://github.com/vals5/bloom-projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vals5&repo=bloom-projects&bg_color=0d0d0d&title_color=da571b&text_color=ffffff&icon_color=da571b&border_color=da571b&border_radius=20" alt="bloom-projects" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vals5&repo=bloom-projects&bg_color=0d0d0d&title_color=da571b&text_color=ffffff&icon_color=da571b&border_color=da571b&border_radius=20&v=2" alt="bloom-projects" />
 </a>
 <a href="https://github.com/vals5/folletos_auto">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vals5&repo=folletos_auto&bg_color=0d0d0d&title_color=da571b&text_color=ffffff&icon_color=da571b&border_color=da571b&border_radius=20" alt="folletos_auto" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vals5&repo=folletos_auto&bg_color=0d0d0d&title_color=da571b&text_color=ffffff&icon_color=da571b&border_color=da571b&border_radius=20&v=2" alt="folletos_auto" />
 </a>
 
 </div>
